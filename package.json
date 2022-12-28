@@ -1,0 +1,22 @@
+{
+  "name": "dnf-html-boilerplate",
+  "version": "1.0.0",
+  "description": "Output boilerplate HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dronifion/npm-boiletplate-html.git"
+  },
+  "keywords": [
+    "DNF"
+  ],
+  "author": "Dronifion",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dronifion/npm-boiletplate-html/issues"
+  },
+  "homepage": "https://github.com/Dronifion/npm-boiletplate-html#readme"
+}
